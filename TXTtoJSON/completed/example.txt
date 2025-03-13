@@ -1,0 +1,7 @@
+name: John Doe
+age: 30
+email: john.doe@example.com
+occupation: Software Developer
+address: 123 Main St
+city: New York
+country: USA 

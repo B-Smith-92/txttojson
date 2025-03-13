@@ -1,0 +1,8 @@
+contact1: Alice Smith
+phone1: 555-123-4567
+email1: alice@example.com
+contact2: Bob Johnson
+phone2: 555-987-6543
+email2: bob@example.com
+company: ABC Corporation
+department: Sales 
